@@ -2,7 +2,7 @@ package Programmers;
 
 import java.util.*;
 
-class Solution {
+public class assignment3 {
     public String solution(String[] participant, String[] completion) {
         String answer = "";
 

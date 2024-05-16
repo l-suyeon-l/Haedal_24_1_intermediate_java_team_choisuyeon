@@ -2,7 +2,7 @@ package Programmers;
 
 import java.util.*;     // Arrays 사용
 
-class Solution {
+public class assignment1 {
     public int[] solution(int[] numbers) {
         //int[] answer = {};
         int[] answer = new int[numbers.length * (numbers.length - 1)  / 2];

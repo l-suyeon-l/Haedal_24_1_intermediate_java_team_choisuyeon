@@ -2,7 +2,7 @@ package Programmers;
 
 import java.util.*;
 
-class Solution {
+public class assignment2 {
     boolean solution(String s) {
         boolean answer = true;
         int idx = 0;
